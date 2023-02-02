@@ -8,7 +8,7 @@ function SoftSkills() {
       <h2 className="font-bold text-lg text-left mb-3 sm:text-xl">
         What I bring to the table
       </h2>
-      <ul className="text-md text-justify grid gap-3">
+      <ul className="span--color text-md text-justify grid gap-3">
         <li>
           Four years of experience in an{' '}
           <span className=" text-orange-300">agile</span> environment

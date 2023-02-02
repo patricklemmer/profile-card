@@ -79,8 +79,8 @@ button:focus-visible {
 
 @media (prefers-color-scheme: light) {
   :root {
-    color: #213547;
-    background-color: #ffffff;
+    color: #242424;
+    background-color: #efefef;
   }
   a:hover {
     color: #747bff;
@@ -88,6 +88,25 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
 
-/* #535bf2 */
+  .profile--img {
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1),
+      0 4px 6px -4px rgb(0 0 0 / 0.1);
+  }
+
+  .social--icon {
+    color: #242424;
+  }
+
+  .title {
+    color: #5b0fc8;
+  }
+
+  .title--link {
+    color: #242424;
+  }
+
+  .span--color span {
+    color: #5b0fc8;
+  }
+}

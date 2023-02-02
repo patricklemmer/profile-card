@@ -8,7 +8,7 @@ function Image() {
       <img
         src={ProfileImage}
         alt="Profile Image"
-        className="w-60 rounded sm:w-80 md:w-96"
+        className="profile--img w-60 rounded sm:w-80 md:w-96"
       />
     </picture>
   )

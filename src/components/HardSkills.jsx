@@ -8,7 +8,7 @@ function HardSkills() {
       <h2 className="font-bold text-lg text-left mb-3 sm:text-xl">
         What I work with
       </h2>
-      <ul className="text-md text-justify grid gap-3">
+      <ul className="span--color text-md text-justify grid gap-3">
         <li>
           <span className=" text-orange-300">Frontend:</span> JavaScript, React,
           Tailwind CSS, Bootstrap, Vanilla CSS, TDD

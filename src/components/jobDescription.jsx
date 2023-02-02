@@ -8,7 +8,7 @@ function JobDescription() {
       <h2 className="font-bold text-lg text-left mb-3 sm:text-xl">
         What I am looking for
       </h2>
-      <p className="text-md text-justify">
+      <p className="span--color text-md text-justify">
         I am looking for an{' '}
         <span className=" text-orange-300">
           entry-level, full-time, fully remote frontend developer position
