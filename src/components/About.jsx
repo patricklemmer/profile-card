@@ -17,20 +17,21 @@ function About() {
         core concepts of JavaScript and React, and feel comfortable navigating
         both. This confidence also stems from the fact that I understand, very
         well, what needs to be done whenever I hit a roadblock in the
-        development of projects. <br /> <br />I am a thorough and curious person
-        who knows how to work through challenges. Big or small, my patient
-        spirit always helps me to track down an issue and troubleshoot
-        effectively. <br />
+        development of projects. I am a thorough and curious person who knows
+        how to work through challenges. Big or small, my patient spirit always
+        helps me to track down an issue and troubleshoot effectively. <br />
         <br />
         Part of the reason why I enjoy frontend development a lot, is my
         background in photography. I have over a decade of experience in
         photography, and the process of creating a visually appealing
         "end-product". I love the creativity in this process and see many
         similarities to frontend development, such as the composition of UI
-        elements, colour schemes or the "feeling" of a design. In addition to
-        that, I enjoy "building stuff", and because I am not that good with my
-        hands, I realized that building digital products comes very natural to
-        me.
+        elements, colour schemes or the "feeling" of a design. <br /> In
+        addition to that, I enjoy "building stuff", and because I am not that
+        good with my hands, I realized that building digital products comes very
+        natural to me. In contrast to the creative work on the frontend, I find
+        great joy in mapping out strategic decisions and creating the
+        architecture for the backend of an application.
       </p>
     </div>
   )
