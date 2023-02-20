@@ -1,6 +1,6 @@
 // Imports
 // React imports
-import React from 'react'
+import React from 'react';
 
 function SoftSkills() {
   return (
@@ -28,7 +28,7 @@ function SoftSkills() {
           <span className=" text-orange-300">leading an operation</span>,
           including establishment and management of a supply chain, coordination
           of external stakeholers and responsibility over up to 400 people and a
-          team of 15 employees.{' '}
+          team of 15 employees{' '}
         </li>
         <li>
           Ability to{' '}
@@ -44,7 +44,7 @@ function SoftSkills() {
         </li>
       </ul>
     </div>
-  )
+  );
 }
 
-export default SoftSkills
+export default SoftSkills;

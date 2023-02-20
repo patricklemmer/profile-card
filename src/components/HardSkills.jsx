@@ -1,6 +1,6 @@
 // Imports
 // React imports
-import React from 'react'
+import React from 'react';
 
 function HardSkills() {
   return (
@@ -15,7 +15,7 @@ function HardSkills() {
         </li>
         <li>
           <span className=" text-orange-300">Backend:</span> Node.js, MongoDB,
-          Netlify,
+          Netlify
         </li>
         <li>
           <span className=" text-orange-300">Other:</span> Git/GitHub, VSCode,
@@ -23,8 +23,8 @@ function HardSkills() {
         </li>
         <li>
           <span className=" text-orange-300">What I have used before*:</span>{' '}
-          AWS, Google Firestore, Heroku, REST API, JSON, Express, Postman,
-          PostgreSQL <br /> <br />
+          TypeScript, AWS, Google Firestore, Heroku, Vercel, REST API, JSON,
+          Express, Postman, PostgreSQL <br /> <br />
           <span className="text-sm">
             *I have used these tools/technologies in at least one of my previous
             projects. I am by no means an expert, but I understand their core
@@ -34,7 +34,7 @@ function HardSkills() {
         </li>
       </ul>
     </div>
-  )
+  );
 }
 
-export default HardSkills
+export default HardSkills;

@@ -1,6 +1,6 @@
 // Imports
 // React imports
-import React from 'react'
+import React from 'react';
 
 function JobDescription() {
   return (
@@ -11,7 +11,7 @@ function JobDescription() {
       <p className="span--color text-md text-justify">
         I am looking for an{' '}
         <span className=" text-orange-300">
-          entry-level, full-time, fully remote frontend developer position
+          entry-level, full-time, fully remote fullstack developer position
         </span>
         . From the moment I started learning web development, I really enjoyed
         learning and growing my skillset in an effective and productive manner.
@@ -24,7 +24,7 @@ function JobDescription() {
         to contribute to business success and a positive team spirit.
       </p>
     </div>
-  )
+  );
 }
 
-export default JobDescription
+export default JobDescription;
